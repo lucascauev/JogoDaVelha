@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Jogo Da Velha</string>
+    <string name="esse_app_foi_desenvolvido_com_base_em_2_v_deos_do_canal_do_tiago_aguiar_no_youtube">Esse app foi desenvolvido com base em 2 vídeos do canal do Tiago Aguiar no YouTube. O projeto inicial, conta com apenas uma activity, então implementei mais duas activitys juntamente com seus respectivos layouts. Adicicionei um botão para acessar cada uma dessas activitys implementadas e fiz algumas alterações no código base. </string>
+    <string name="jogar">Jogar</string>
+    <string name="jogo_da_velha">Jogo da Velha</string>
+</resources>
